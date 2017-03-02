@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Pixie experimental volumetric renderer"
+date:   2017-03-01 18:41:33 +0000
+categories: film development
+categories: [one, two]
+img: pixie/thumbnail.png
+priority: 9
+---
+
+A raycasting volume renderer. A Python script is used to export data from Blender. The core rendering is done by a program written in C but has a Python wrapper to make it easy to place the camera/light, load volume data and create images with the speed of C and convenience of Python.
+
+[Github]
+{: style="text-align: center"}
+
+[Github]: https://github.com/Peter-Noble/Pixie
