@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Projects in WebGL"
+title:  "Web graphics"
 date:   2017-03-01 18:44:33 +0000
 categories: development
-categories: [one, two]
+tagLine: "Projects in WebGL"
 priority: 5
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Pixie experimental volumetric renderer"
+title:  "Pixie"
 date:   2017-03-01 18:41:33 +0000
 categories: film development
-categories: [one, two]
+tagLine: "Experimental volumetric renderer"
 img: pixie/thumbnail.png
 priority: 9
 ---

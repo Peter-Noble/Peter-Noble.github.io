@@ -3,10 +3,12 @@ layout: post
 title:  "Technical Theatre"
 date:   2017-03-01 16:34:33 +0000
 categories: theatre
-categories: [one, two]
+tagLine: "TD & LD"
 img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 8
 ---
+
+Over the past 7 years I've had the opportunity to be part of some fantastic shows!
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Spamalot/1.jpg)
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sculpting With Light - Projection mapping workshop"
+title:  "SWL"
 date:   2017-03-01 17:42:33 +0000
 categories: film
-categories: [one, two]
+tagLine: "Projection mapping workshop"
 img: sculptingWithLight/thumbnail.png
 priority: 3
 ---
