@@ -30,6 +30,18 @@ Over the past 7 years I've had the opportunity to be part of some fantastic show
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Spamalot/10.jpg)
 
+> The lighting design was also an understated brilliance...
+>
+> -- The Bubble - Spamalot opening night review
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/CarpeJugulum/1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/CarpeJugulum/2.jpg)
+
+> Lighting was central to this play and such changes were slick and professional throughout.
+>
+> -- First Night - Carpe Jugulum opening night review
+
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/1.jpg)
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/2.jpg)
@@ -45,6 +57,10 @@ Over the past 7 years I've had the opportunity to be part of some fantastic show
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/swallow4.jpg)
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/swallow2.jpg)
+
+> Congratulations should go to Technical Director Matthew Jennings and Lighting Designer Peter Noble for creating a perfect ambience to effectively match the emotions onstage.
+>
+> -- The Bubble - Swallow opening night review
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/howToSucceed.jpg)
 
