@@ -14,7 +14,15 @@ layout: default
 
                 <div class="panel panel-default">
                   <div class="panel-body">
-                    <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="panel-title pull-left">{{ post.title | truncate: 25 }}</h3></a><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <h3 class="panel-title pull-left">{{ post.title | truncate: 25 }}</h3>
+                    </a>
+                    <span class="post-meta pull-right">
+                        {% if post.tagLine %}
+                        <small>{{ post.tagLine }}</small>
+                        {% endif %}
+                        <!--<small>{{ post.date | date: "%b %-d, %Y" }}</small>-->
+                    </span>
                   </div>
                   {% if post.img %}
                   <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
