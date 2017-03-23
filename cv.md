@@ -5,21 +5,41 @@ permalink: /cv/
 img: p_logo_v2.jpg
 ---
 
-#### EDUCATION
+This page is a work in progress. Thank you for your patience.
 
-Durham University: Computer Science (First year score of 90%)
+### EDUCATION
 
-Hills Road Sixth Form College: Maths (A*), Further Maths (A), Computing (A) and Physics(A*)
+> #### Durham University
+> <small>2015-current</small>
+> Computer Science (First year score of 90%)
+
+> #### Hills Road Sixth Form College
+> <small>2013-2015</small>
+> Maths (A*), Further Maths (A), Computing (A), Physics(A*) and EPQ(dist)
+
+> #### Sawston Village College
+> <small>2008-2013</small>
+> GCSEs 6 A*s, 4 As and 1 B
 
 #### EXPERIENCE
 
-This is some more experience
+This is some experience
 
-This is some more experience
+Sawston Cinema
+
+* Gold Arts Award
+
+* Workshops
+
+Theory Studios
+
+* Obvserving the inner workings of an international virtual studio and their unique pipeline.
 
 #### HONORS & AWARDS
 
-This is something
+Vice Chancellor Scholarship 2017
+
+BAE systems CTF 1st place (opportunity of internship offered)
 
 #### CODE
 
