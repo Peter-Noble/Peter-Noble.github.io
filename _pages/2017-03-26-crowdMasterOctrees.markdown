@@ -7,7 +7,7 @@ layout: default
 
 >NOTE: This was written in relation to InAIte which is now no longer active. The code from InAIte became the base of what is now CrowdMaster.
 
->NOTE: since writing this Blender now exposes it's implementation of a KD-tree. Although it has the same asymptotic run time as my octree it has been efficiently implemented in C++ which makes the runtimes much better in practice and reduces the .
+>NOTE: since writing this Blender now exposes it's implementation of a KD-tree. Although it has the same asymptotic run time as my octree it has been efficiently implemented in C++ which makes the runtimes much better in practice and reduces the amount of code I have to maintain so my Python octree implementation is no longer in use.
 
 While experimenting with my crowd simulation plugin (https://github.com/Peter-Noble/InAIte) I noticed that using what I call sound channels which allow agents to "hear" each other the speed of the simulation dropped dramatically. The time complexity of a large portion of the system is linear but if every agent uses sound then the system is definitely O(n^2) which results in unacceptable run times. To try and improve this I implemented an octree in python. This post is to summarize the results of the exercise.
 

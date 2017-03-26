@@ -9,11 +9,23 @@ tagLine: "Crowd simulation tool"
 ---
 CrowdMaster is a project that originated from my Computing A level project (2014). Since then it has continued to grow in scope. At its heart is a fuzzy logic agent based system and a procedural node based agent placement system.
 
-CrowdMaster is now developed by [John Roper] and myself. I mainly concentrate on the core simulation and agent generation code while John focusses on UI, utilities, website and releases. We're also been supported by a number of other developers and artists and in particular [Theory Studios].
+CrowdMaster is now developed by [John Roper] and myself. I mainly concentrate on the core simulation and agent generation code while John focusses on UI, utilities, website and releases although there is a lot of crossover and collaboration. We're also been supported by a number of other developers and artists and in particular [Theory Studios].
 
-[Official website]
+Please see the [Official website] and the [Github] page for more details.
 
-[Github]
+#### Indepth discussions about aspects of CrowdMaster
+
+<a href="/cm/formations/"> Dynamic Formations </a>
+
+<a href="/cm/collisionPrediction/"> Collision Prediction </a>
+
+<a href="/cm/pathFollowing/"> Path Following </a>
+
+<a href="/cm/agentGeneration/"> Agent Generation </a>
+
+<a href="/cm/octree/"> Octrees</a>
+
+#### Video examples
 
 <iframe src="https://www.youtube.com/embed/m0zP3IMTmAU" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
@@ -33,9 +45,3 @@ CrowdMaster was formally known as InAIte
 [Theory Studios]: http://theorystudios.com/
 [Official website]: http://jmroper.com/crowdmaster/
 [Github]: https://github.com/johnroper100/CrowdMaster
-
-#### Indepth discussions about aspects of CrowdMaster
-
-<a href="/cm/formations/"> Dynamic formations algorithm </a>
-
-<a href="/cm/octree/"> Octrees</a>
