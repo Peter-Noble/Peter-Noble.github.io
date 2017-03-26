@@ -15,19 +15,21 @@ CrowdMaster is now developed by [John Roper] and myself. I mainly concentrate on
 
 [Github]
 
-<iframe src="https://www.youtube.com/embed/m0zP3IMTmAU" class="embed-content"></iframe>
+<iframe src="https://www.youtube.com/embed/m0zP3IMTmAU" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
-<iframe src="https://www.youtube.com/embed/bjGoyI8T_9Q" class="embed-content"></iframe>
+<iframe src="https://www.youtube.com/embed/bjGoyI8T_9Q" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
-<iframe src="https://www.youtube.com/embed/pBrFeyeq178" class="embed-content"></iframe>
+<iframe src="https://www.youtube.com/embed/pBrFeyeq178" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
-<iframe src="https://www.youtube.com/embed/LSygDUSRpTM" class="embed-content"></iframe>
+<iframe src="https://www.youtube.com/embed/LSygDUSRpTM" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
 CrowdMaster was formally known as InAIte
 
-<iframe src="https://www.youtube.com/embed/mO_XvHIlfr0" class="embed-content"></iframe>
+<iframe src="https://www.youtube.com/embed/mO_XvHIlfr0" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
 [John Roper]: http://jmroper.com/
 [Theory Studios]: http://theorystudios.com/
 [Official website]: http://jmroper.com/crowdmaster/
 [Github]: https://github.com/johnroper100/CrowdMaster
+
+<a href="/cm/octree/"> Octree discussion</a>

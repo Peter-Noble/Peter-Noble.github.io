@@ -24,6 +24,7 @@ markdown: kramdown
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
+include: ["_pages"]
 
 #social
 github: http://github.com/peter-noble
