@@ -27,9 +27,15 @@ CrowdMaster was formally known as InAIte
 
 <iframe src="https://www.youtube.com/embed/mO_XvHIlfr0" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
+<iframe src="https://www.youtube.com/embed/xVdDbZcejb0" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
+
 [John Roper]: http://jmroper.com/
 [Theory Studios]: http://theorystudios.com/
 [Official website]: http://jmroper.com/crowdmaster/
 [Github]: https://github.com/johnroper100/CrowdMaster
 
-<a href="/cm/octree/"> Octree discussion</a>
+#### Indepth discussions about aspects of CrowdMaster
+
+<a href="/cm/formations/"> Dynamic formations algorithm </a>
+
+<a href="/cm/octree/"> Octrees</a>

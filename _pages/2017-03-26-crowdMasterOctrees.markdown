@@ -1,12 +1,6 @@
 ---
 permalink: "/cm/octree/"
 layout: default
-title:  "CrowdMasterPage"
-date:   2017-03-01 15:33:33 +0000
-categories: blender development
-img: CM-logo.png
-priority: 10
-tagLine: "Crowd simulation tool page"
 ---
 
 # Octrees
