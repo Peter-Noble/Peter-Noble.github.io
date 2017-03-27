@@ -19,6 +19,8 @@ Please see the [Official website] and the [Github] page for more details.
 
 <a href="/cm/collisionPrediction/"> Collision Prediction </a>
 
+<a href="/cm/actionSync/"> Action Synchronisation </a>
+
 <a href="/cm/pathFollowing/"> Path Following </a>
 
 <a href="/cm/agentGeneration/"> Agent Generation </a>
