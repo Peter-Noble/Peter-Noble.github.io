@@ -32,4 +32,4 @@ This script produces this box made of many strands which can then be attracted b
 
 ![alt text]({{site.baseurl}}/images/houdini/2.jpg)
 
-This script was an extension of one of the examples on the FXPHD course. I added the diffusing effect and furth extended it to diffuse at different rates based on a procedural texture meant to look like the fibres in a coarse paper.
+This script was an extension of one of the examples on the FXPHD course. I added the diffusing effect and further extended it to diffuse at different rates based on a procedural texture meant to look like the fibres in a coarse paper.

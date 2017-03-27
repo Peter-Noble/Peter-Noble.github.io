@@ -42,9 +42,9 @@ Over the past 7 years I've had the opportunity to be part of some fantastic show
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Spamalot/10.jpg)
 
-> The lighting design was also an understated brilliance...
+> "The lighting design was also an understated brilliance..."
 >
-> -- The Bubble - Spamalot opening night review
+> -- Spamalot opening night review by The Bubble
 
 ### Carpe Jugulum - Lighting Designer
 
@@ -52,9 +52,9 @@ Over the past 7 years I've had the opportunity to be part of some fantastic show
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/CarpeJugulum/2.jpg)
 
-> Lighting was central to this play and such changes were slick and professional throughout.
+> "Lighting was central to this play and such changes were slick and professional throughout."
 >
-> -- First Night - Carpe Jugulum opening night review
+> -- Carpe Jugulum opening night review by First Night
 
 ### Durham Drama Festival 2017 - Technical Manager
 
@@ -80,9 +80,9 @@ Over the past 7 years I've had the opportunity to be part of some fantastic show
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/swallow2.jpg)
 
-> Congratulations should go to Technical Director Matthew Jennings and Lighting Designer Peter Noble for creating a perfect ambience to effectively match the emotions onstage.
+> "Congratulations should go to Technical Director Matthew Jennings and Lighting Designer Peter Noble for creating a perfect ambience to effectively match the emotions onstage."
 >
-> -- The Bubble - Swallow opening night review
+> -- Swallow opening night review by The Bubble
 
 ### How To Succeed In Business Without Really Trying - Sound Designer
 

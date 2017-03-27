@@ -8,7 +8,7 @@ img: pixie/thumbnail.png
 priority: 9
 ---
 
-A raycasting volume renderer. A Python script is used to export data from Blender. The core rendering is done by a program written in C but has a Python wrapper to make it easy to place the camera/light, load volume data and create images with the speed of C and convenience of Python.
+A raycasting volume renderer. A Python script is used to export data from Blender. The core rendering is performed by a program written in C but has a Python wrapper to make it easy to place the camera/light, load volume data and create images with the speed of C but convenience of Python.
 
 <iframe src="https://player.vimeo.com/video/210152602" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

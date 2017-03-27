@@ -33,7 +33,7 @@ Even for very small numbers of objects the octree is significantly fasters. The 
 
 ![Benchmark](/images/CrowdMaster/Octree/InAIte_octreeBenchmark.png){:class="img-responsive"}
 
-For a simulation run inside Blender it is currently unfeasible to run a simulation with 8000 objects and there are other aspects of the simulation which would cause the runtime to be too high by this point. However, it would be desireable to one day have the simulation run near real time even with a couple of hundred agents but this graph shows that the current construction time for the octree maybe a limiting factor for this.
+For a simulation run inside Blender it is currently infeasible to run a simulation with 8000 objects and there are other aspects of the simulation which would cause the runtime to be too high by this point. However, it would be desireable to one day have the simulation run near real time even with a couple of hundred agents but this graph shows that the current construction time for the octree maybe a limiting factor for this.
 
 The code for these tests and the octree can be found along with the rest of the code for the crowd simulator here:
 <a href="https://github.com/Peter-Noble/InAIte/blob/master/iai_channels/libs/ins_octree.py">Github</a>
