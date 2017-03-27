@@ -2,7 +2,7 @@
 layout: post
 title:  "CrowdMaster"
 date:   2017-03-01 15:33:33 +0000
-categories: blender development
+categories: development
 img: CM-logo.png
 priority: 10
 tagLine: "Crowd simulation tool"

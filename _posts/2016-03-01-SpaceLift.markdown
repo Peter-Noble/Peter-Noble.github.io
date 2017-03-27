@@ -2,7 +2,7 @@
 layout: post
 title:  "Space Lift"
 date:   2017-03-01 17:34:33 +0000
-categories: theatre
+categories: film
 tagLine: "Award winning short film"
 img: spaceLift/thumbnail.png
 priority: 5
