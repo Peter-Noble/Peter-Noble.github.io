@@ -5,8 +5,6 @@ permalink: /cv/
 img: p_logo_v2.jpg
 ---
 
-This page is a work in progress. Thank you for your patience.
-
 #### EDUCATION
 
 > #### Durham University
@@ -23,27 +21,27 @@ This page is a work in progress. Thank you for your patience.
 
 #### EXPERIENCE
 
-This is some experience
+> #### Workshop leader
+Teaching film and visual effects
 
-Sawston Cinema
+> #### Visual effects work
+* Draculars sister (tracking and smoke simulation)
+* Story phonics (greenscreen, rotoscoping and compositing)
 
-* Gold Arts Award
-
-* Workshops
-
-* VFX for short films
-
-Theory Studios
-
+> #### Theory Studios
 * Obvserving the inner workings of an international virtual studio and their unique pipeline.
+* I've been working with Theory to move my crowd simulation tool towards the point where they could use it in production.
 
 #### HONORS & AWARDS
 
-Vice Chancellor Scholarship 2017
+> #### Vice Chancellor Scholarship 2017
+Awarded to 60 highest scoring undergraduates in the university.
 
-BAE systems CTF 1st place (opportunity of internship offered)
+> #### BAE systems Durham CTF 1st place
+Cyber security competition. Opportunity of internship offered
 
-Gold Arts Award
+> #### Silver and Gold Arts Awards
+Based on film and visual effects.
 
 Henry Morris Community Award
 
