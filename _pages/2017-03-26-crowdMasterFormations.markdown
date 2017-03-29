@@ -5,6 +5,8 @@ layout: default
 
 # Dynamic formations
 
+<iframe src="https://player.vimeo.com/video/210673627" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 CrowdMaster has the ability to dynamically assign agents to points in a formation in a natural looking manner without the user assigning agents to positions explicitly. This might be useful in situations where agents need to converge and create a formation but where the user can't guarantee the order of arrival at the formation location.
 
 At the heart of CrowdMasters dynamic formation system is a divide and conquer point cloud pairing algorithm inspired by quick sort and optical flow algorithms. The aim is to match every point in an input point cloud to a point in a target point cloud in a natural way. By natural I mean we want to avoid the situation where most agents are assigned nearby target points but a small number are assigned far away points. This might be the case if using an optimisation algorithm.

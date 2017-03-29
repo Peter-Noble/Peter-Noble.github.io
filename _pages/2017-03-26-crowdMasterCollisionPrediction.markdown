@@ -5,6 +5,8 @@ layout: default
 
 # Collision prediction and avoidance
 
+<iframe src="https://player.vimeo.com/video/210173152" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 From an early stage basic collision avoidance was supported by simply emitting a sound and then other agents would turn away from any sound they could hear. However, this didn't produce a result that looked like the agents were intelligent and as the whole goal of crowd simulation is to simulate real crowds where each member is actually intelligent. One way to improve the avoidance is to turn towards where there is a gap rather than turn away from nearby agents. This still doesn't make much of a difference to any case where agents are moving at any reasonable speed since they don't have the ability to predict where other agents will be in the future.
 
 The sort of method described above is demonstrated on this website:
@@ -17,5 +19,3 @@ The first solution I tried was to assume all agents travel at a constant velocit
 <iframe src="https://www.youtube.com/embed/mO_XvHIlfr0" class="embed-content" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
 The second (and better) solution was to predict the distance between agents assuming they are travelling at a constant velocity. This produces a quadratic equation which can very easily be adjusted to include the size of the agents by simply subtracting the radius of each agent from the constant term. There will be a collision between the agents if the quadratic equation has any roots.
-
-<iframe src="https://player.vimeo.com/video/210173152" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
