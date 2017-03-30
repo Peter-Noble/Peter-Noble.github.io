@@ -11,4 +11,8 @@ img: p_logo_v2.jpg
 
 <div class="mt50"></div>
 
-This is some text about me.
+I am a 2nd year Computer Science student at Durham University.
+
+When I'm not studying I will often be found working behind the scenes at shows and events as a technician or working on a personal film or VFX projects.
+
+Once I graduate I would like to work in an industry where I can use my technical skills to help create visuals and so combine my love of technology, performance and film.
