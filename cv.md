@@ -31,17 +31,17 @@ Silver and Gold Arts Awards - based on film and visual effects.
 
 Gold in the UK Maths Challenge
 
-Awards won in London, Prague and Australia for short Lego animation.
+Part of a small group that created a Lego animation that won awards in London, Prague and Australia.
 
 ### EXPERIENCE
 
 #### Technical Manager, Collingwood College (2016 - present)
-This role involves communicating with groups organising events in the college as well as those that will help to put the events on (such as security, catering and the COO). Also responsible for leading decisions regarding the budget that is £4,000 annually and almost £15,000 when including the technical budget for each event.
+Coordinating with groups organising events in the college, as well as those that will help to put the events on (such as security, catering and the COO).  Also responsible for leading decisions regarding the budget that is £4,000 annually and almost £15,000 when including the technical budget for each event.
 
 #### Technical Theatre (2009 - present) (see <a href="/TechnicalTheatre">Technical Theatre</a>)
 ##### Durham Student Theatre (2015 - present)
 
-Fourteen shows as Technical Director, Lighting Designer or Sound Designer including DULOG’s “Spamalot” at the Gala Theatre and Piccolo Theatre’s “Swallow”.
+Fourteen shows as Technical Director, Lighting Designer or Sound Designer including DULOG’s “*Spamalot*” at the Gala Theatre and Piccolo Theatre’s “*Swallow*”.
 
 ##### Sawston Youth Drama (2011 - present)
 
@@ -60,7 +60,7 @@ One show as Lighting Designer.
 Six shows as Technical Director or Lighting Designer.
 
 #### Storytime Phonics VFX work (Summer 2016)
-Working from home, completed the effects for three greenscreen heavy short films. This work was offered by a former mentor (see References section).
+Working from home, completed the effects for three greenscreen-heavy short films. This work was offered by a former mentor (see References section).
 
 #### Workshop Leader at Sawston Cinema (2012 - 2016)
 Taught kids aged 11-16 about filmmaking and visual effects.  One workshop produced a film that won a competition to be screened on the International Space Station (see <a href="/SpaceLift"> SpaceLift</a>).  Another workshop taught kids about projection mapping and animation (see <a href="/SculptingWithLight">SculptingWithLight</a>).
@@ -72,11 +72,7 @@ Week long residential, being taught and practicing VFX techniques.
 
 #### Communication and teamwork
 
-Leader at Sawston Cinema where for a number of years I have helped drive projects to be more technically and creatively successful.
-
-Being able to communicate complex creative and technical concepts to kids who had never made films before was an important aspect of my role.
-
-Projects were run by a number of professionals, and in the last few years I have led several projects myself.
+Leader at Sawston Cinema where for a number of years I have helped drive projects to be more technically and creatively successful.  Being able to communicate complex creative and technical concepts to kids who had never made films before was an important aspect of my role.  Projects were run by a number of professionals, and in the last few years I have led several projects myself.
 
 #### Organisation, management and leadership
 
