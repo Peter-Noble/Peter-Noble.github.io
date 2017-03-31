@@ -8,7 +8,7 @@ img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 8
 ---
 
-Over the past 7 years I've had the opportunity to be part of some fantastic shows!
+Over the past 7 years I've worked on almost 35 shows. Below are some photos from a selection of those shows.
 
 ### Joseph - Technical Director
 

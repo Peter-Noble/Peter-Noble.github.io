@@ -8,6 +8,8 @@ img: spaceLift/thumbnail.png
 priority: 5
 ---
 
+I ran a film workshop to produce a film that won a competition to be screened on the International Space Station!
+
 <iframe src="https://player.vimeo.com/video/153402713" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe src="https://www.youtube.com/embed/BY-ITmr0pTs" class="embed-content"></iframe>
