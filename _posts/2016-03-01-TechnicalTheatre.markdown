@@ -3,7 +3,7 @@ layout: post
 title:  "Technical Theatre"
 date:   2017-03-01 16:34:33 +0000
 categories: theatre
-tagLine: "TD & LD"
+tagLine: "Tech Director & Lighting Designer"
 img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 8
 ---
