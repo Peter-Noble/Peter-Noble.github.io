@@ -24,3 +24,7 @@ If this point is further from the path than the radius of the path the point is 
 The advantage of this modification is that if many agents are following the same path then they will naturally remain separated and not clump together. It will also stop agent from bouncing from edge to edge along a path. In reality if you are walking along a path you are likely to follow the curve of the path unless some other factor or extreme change in angle of the path causes you to adjust and it will stop every agent with some free space heading for the dead centre of the path.
 
 Secondly, paths can be bidirectional and split. The agents will always follow the path which requires the smallest change in angle to follow. This makes setting up networks of paths easy. If no other factors influence the agent they tend to all make the same turning at a given junction but as soon as other influences (or even just a very small amount of random motion) is added this repeatative behaviour all but disapprears.
+
+The following we created with an extension to the described method:
+
+<iframe src="https://player.vimeo.com/video/217817560" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
