@@ -9,11 +9,11 @@ img: p_logo_v2.jpg
 
 #### Durham University (2015 - 2019 graduation)
 
-Computer Science (First average of 90%)
+Computer Science (First for years 1 and 2)
 
 Vice Chancellor Scholarship 2016/17 - awarded to the 60 highest-scoring undergraduates across all disciplines in the university.
 
-BAE Systems Durham CTF 1st place - cyber security competition. Opportunity of internship offered.
+BAE Systems Durham CTF 1st place - cyber security competition.
 
 #### Hills Road Sixth Form College (2013 - 2015)
 <small>2013-2015</small>
@@ -35,17 +35,27 @@ Part of a small group that created a Lego animation that won awards in London, P
 
 ### EXPERIENCE
 
-#### Technical Manager, Collingwood College (2016 - present)
+#### Simulation programmer and crowd TD, Theory Studios (Summer 2017)
+Summer job building, using and providing support for a crowd simulation tool used to animate traffic for high profile TV visual effects jobs.
+
+#### Technical Manager, Collingwood College (2016 - 2017)
 Coordinating with groups organising events in the college, as well as those that will help to put the events on (such as security, catering and the COO).  Also responsible for leading decisions regarding the budget that is £4,000 annually and almost £15,000 when including the technical budget for each event.
 
+#### Technical Events (2015 - present) (see <a href="/TechnicalEvents">Technical Events</a>)
+
+Designing and running the live music events and formals that happen at Collingwood College Durham.
+
 #### Technical Theatre (2009 - present) (see <a href="/TechnicalTheatre">Technical Theatre</a>)
+
+A variety of events both inside and outside as the technical manager or designer.
+
 ##### Durham Student Theatre (2015 - present)
 
-Fourteen shows as Technical Director, Lighting Designer or Sound Designer including DULOG’s “*Spamalot*” at the Gala Theatre and Piccolo Theatre’s “*Swallow*”.
+Sixteen shows as Lighting Designer, Technical Director or Sound Designer including two shows in the Gala Theatre (Durham's professional theatre).
 
 ##### Sawston Youth Drama (2011 - present)
 
-Eleven shows as Lighting Op and/or Lighting Designer.
+Twelve shows as Lighting Op and/or Lighting Designer.
 
 ##### Little Shelford annual pantomime (2014 - 2016)
 
@@ -57,7 +67,7 @@ One show as Lighting Designer.
 
 ##### Sawston Village College Tech Team Leader (2009 - 2013)
 
-Six shows as Technical Director or Lighting Designer.
+Six shows as Technical Director or Lighting Designer including two shows in the Cambridge Junction.
 
 #### Storytime Phonics VFX work (Summer 2016)
 Working from home, completed the effects for three greenscreen-heavy short films. This work was offered by a former mentor (see References section).
@@ -83,9 +93,17 @@ I do not settle for second-rate work. I take personal pride and responsibility f
 
 This is demonstrated by my academic performance and consistent positive feedback from events and shows I have helped to run.
 
+#### Lighting desk programming
+
+Proficient at programming and operating MA dot2 and ETC EOS (Element and Ion) and familiar with Avolites and Zero88.
+
+#### Digital sound desk experience
+
+Behringer x32 and Digico SD9.
+
 #### Code development skills
 
-Primarily Python, but also C, JavaScript, WebGL, Java, Linux and git.
+Primarily Python and C, but also JavaScript, WebGL, Java, Linux and git.
 
 Blender plugin development using Python.
 

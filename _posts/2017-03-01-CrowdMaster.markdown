@@ -4,7 +4,7 @@ title:  "CrowdMaster"
 date:   2017-03-01 15:33:33 +0000
 categories: development
 img: CM-logo.png
-priority: 10
+priority: 8
 tagLine: "Crowd simulation tool"
 ---
 CrowdMaster is a project that originated from my Computing A level project (2014). Since then it has continued to grow in scope. At its heart is a fuzzy logic agent based system and a procedural node based agent placement system.

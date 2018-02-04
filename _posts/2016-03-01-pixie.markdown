@@ -5,7 +5,7 @@ date:   2017-03-01 18:41:33 +0000
 categories: development
 tagLine: "Experimental volumetric renderer"
 img: pixie/thumbnail.png
-priority: 9
+priority: 7
 ---
 
 A raycasting volume renderer. A Python script is used to export data from Blender. The core rendering is performed by a program written in C but has a Python wrapper to make it easy to place the camera/light, load volume data and create images with the speed of C but convenience of Python.
