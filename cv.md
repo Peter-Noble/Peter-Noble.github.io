@@ -43,7 +43,7 @@ Coordinating with groups organising events in the college, as well as those that
 
 #### Technical Events (2015 - present) (see <a href="/TechnicalEvents">Technical Events</a>)
 
-Designing and running the live music events and formals that happen at Collingwood College Durham.
+Designing and running live music events and themed meals.
 
 #### Technical Theatre (2009 - present) (see <a href="/TechnicalTheatre">Technical Theatre</a>)
 
