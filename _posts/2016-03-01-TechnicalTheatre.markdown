@@ -120,6 +120,8 @@ Sawston Youth Drama - Zero88 Solution
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/TheLittleMermaid1.jpg){:width="50%"}
 
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/19551686262_f8cc4224c9_k.jpg){:width="50%"}
+
 ### The Lion King - Light Rigging And Stage Hand
 Sawston Youth Drama
 
@@ -178,17 +180,10 @@ Assembly Rooms Durham - Allen and Heath
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/DDF2016.jpg)
 
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/19551686262_f8cc4224c9_k.jpg){:width="50%"}
-
 ### Parade - Sound no.1
 Assembly Rooms Durham - Allen and Heath
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/parade.jpg){:width="50%"}
-
-### Her Naked Skin - Technical Director
-Collingwood College Durham (temporary stage)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/HerNakedSkin.jpg)
 
 ### Hills Road Term 1 show - Lighting Design And Op
 The Robinson Theatre Hills Road - ETC Ion
