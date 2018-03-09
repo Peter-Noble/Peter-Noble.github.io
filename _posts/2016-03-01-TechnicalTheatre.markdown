@@ -8,7 +8,7 @@ img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 10
 ---
 
-Over the past 7 years I've worked on around 35 shows. Below are some photos from a selection of those shows.
+Over the past 7 years I've worked on over 35 shows. Below are some photos from a selection of those shows.
 
 Shows are not presented in chronological order.
 
@@ -48,7 +48,7 @@ Assembly Rooms Durham - ETC Element
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/3.jpg)
 
-### Swallow - Lighting Designer
+### Swallow - Lighting Designer and programmer
 Assembly Rooms Durham - ETC Element
 
 NSDF Hull black box - ETC Ion

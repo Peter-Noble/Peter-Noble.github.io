@@ -5,7 +5,7 @@ date:   2017-03-01 17:34:33 +0000
 categories: film
 tagLine: "Award winning short film"
 img: spaceLift/thumbnail.png
-priority: 5
+priority: 7
 ---
 
 I ran a film workshop to produce a film that won a competition to be screened on the International Space Station!

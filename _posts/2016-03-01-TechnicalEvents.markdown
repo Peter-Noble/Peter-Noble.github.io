@@ -8,9 +8,23 @@ img: TechnicalEvents/thumbnail_1.jpg
 priority: 10
 ---
 
-As well as technical theatre I've also designed and/or managed may live events.
+I've designed for, managed and/or opped a range of different events.
 
-For lighting all these events used an MA dot2 or one of the Avolites desks.
+For lighting all these events used an MA dot2 or one of the Avolites consoles.
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/3.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/4.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/5.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/6.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Human2018/preview.jpg)
 
 ![alt text]({{site.baseurl}}/images/TechnicalEvents/Solstice2017_1_cropped.jpg)
 

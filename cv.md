@@ -39,7 +39,7 @@ Part of a small group that created a Lego animation that won awards in London, P
 Summer job building, using and providing support for a crowd simulation tool used to animate traffic for high profile TV visual effects jobs.
 
 #### Technical Manager, Collingwood College (2016 - 2017)
-Coordinating with groups organising events in the college, as well as those that will help to put the events on (such as security, catering and the COO).  Also responsible for leading decisions regarding the budget that is £4,000 annually and almost £15,000 when including the technical budget for each event.
+Coordinating with groups organising events in the college, as well as those that will help to put the events on (such as security, catering and the COO).  £4,000 annual budget and almost £14,000 when including the technical budget for each event.
 
 #### Technical Events (2015 - present) (see <a href="/TechnicalEvents">Technical Events</a>)
 
@@ -55,7 +55,7 @@ Sixteen shows as Lighting Designer, Technical Director or Sound Designer includi
 
 ##### Sawston Youth Drama (2011 - present)
 
-Twelve shows as Lighting Op and/or Lighting Designer.
+Twelve shows as Lighting Programmer/Op and/or Lighting Designer.
 
 ##### Little Shelford annual pantomime (2014 - 2016)
 
@@ -86,7 +86,7 @@ Leader at Sawston Cinema where for a number of years I have helped drive project
 
 #### Organisation, management and leadership
 
-Working on almost thirty five shows and numerous events, often in roles of leadership, has helped me develop these qualities. I have always excelled in high pressure theatre and event production settings.
+Working on over thirty five shows and numerous events, often in roles of leadership, has helped me develop these qualities. I have always excelled in high pressure theatre and event production settings.
 
 #### Conscientious and focused
 I do not settle for second-rate work. I take personal pride and responsibility for the work I do, and apply attention to detail.  I can be relied upon to deliver on what I have committed to.
@@ -95,7 +95,7 @@ This is demonstrated by my academic performance and consistent positive feedback
 
 #### Lighting desk programming
 
-Proficient at programming and operating MA dot2 and ETC EOS (Element and Ion) and familiar with Avolites and Zero88.
+Proficient at programming and operating MA dot2 and ETC EOS (Element and Ion) and working knowledge of Avolites Titan and Zero88.
 
 #### Digital sound desk experience
 

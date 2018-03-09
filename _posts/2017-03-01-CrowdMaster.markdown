@@ -7,7 +7,10 @@ img: CM-logo.png
 priority: 8
 tagLine: "Crowd simulation tool"
 ---
-CrowdMaster is a project that originated from my Computing A level project (2014). Since then it has continued to grow in scope. At its heart is a fuzzy logic agent based system and a procedural node based agent placement system.
+
+A crowd simulation plugin used in the development of Channel 4's Electric Dreams and an upcoming show with Amazon Prime.
+
+CrowdMaster originated from my Computing A level project (2014). Since then it has continued to grow in scope. At its heart is a fuzzy logic agent based system and a procedural node based agent placement system.
 
 ![Example](/images/CrowdMaster/exampleNodeTree.png){:width="50%"}
 
