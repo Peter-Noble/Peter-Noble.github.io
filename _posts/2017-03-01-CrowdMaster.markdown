@@ -4,7 +4,7 @@ title:  "CrowdMaster"
 date:   2017-03-01 15:33:33 +0000
 categories: development
 img: CM-logo.png
-priority: 8
+priority: 12
 tagLine: "Crowd simulation tool"
 ---
 
