@@ -18,6 +18,8 @@ CrowdMaster originated from my Computing A level project (2014). Since then it h
 
 CrowdMaster is now developed by [John Roper] and myself. I mainly concentrate on the core simulation and agent generation code while John focusses on UI, utilities, website and releases although there is a lot of crossover and collaboration. We've also been supported by a number of other developers and artists and in particular [Theory Studios].
 
+A big project is currently underway to improve the core performance and ease of setup. A set of redesigned and now compiled libraries for key functionality is key to this and uses TravisCI to automate building and testing to ensure we're building CrowdMaster on the firmest foundation possible.
+
 #### Technical overviews of aspects of CrowdMaster
 
 <a href="/cm/formations/"> Dynamic Formations </a>
