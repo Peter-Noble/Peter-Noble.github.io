@@ -5,7 +5,7 @@ date:   2017-03-01 16:54:33 +0000
 categories: theatre
 tagLine: "TD & LD"
 img: TechnicalTheatre/Spamalot/thumbnail.png
-priority: 10
+priority: 15
 ---
 
 Over the past 9 years I've worked on over 40 shows. Below are some photos from a selection of those shows.

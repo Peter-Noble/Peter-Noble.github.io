@@ -5,10 +5,11 @@ date:   2018-01-27 16:54:33 +0000
 categories: theatre
 tagLine: "Designer and op"
 img: TechnicalEvents/thumbnail_1.jpg
-priority: 10
+priority: 14
 ---
 
 I've designed for, managed and/or opped a range of different events.
+
 Below are photos from a selection of the events I've worked on.
 
 For lighting all these events used an MA dot2 or one of the Avolites consoles.
