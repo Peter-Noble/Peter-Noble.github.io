@@ -8,9 +8,29 @@ img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 10
 ---
 
-Over the past 7 years I've worked on over 35 shows. Below are some photos from a selection of those shows.
+Over the past 9 years I've worked on over 40 shows. Below are some photos from a selection of those shows.
 
 Shows are not presented in chronological order.
+
+### Singin' in the Rain - Lighting Designer
+Gala Theatre Durham - ETC
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/SinginInTheRain/1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/SinginInTheRain/2.jpg){:width="50%"}
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/SinginInTheRain/3.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/SinginInTheRain/4.jpg){:width="50%"}
+
+### 35mm - Projection programmer
+Collingwood Arts Centre - Resolume
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/35mm/1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/35mm/2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/35mm/3.png)
 
 ### Spamalot - Lighting Designer
 Gala Theatre Durham - GrandMA2
@@ -39,14 +59,18 @@ Gala Theatre Durham - GrandMA2
 [//]: <> >
 [//]: <> > -- Spamalot opening night review by The Bubble
 
-### Get your sh*t together - Lighting Designer and programmer
-Assembly Rooms Durham - ETC Element
+### Legally Blonde - Lighting Designer
+Assembly Rooms Durham - MA dot2
 
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/1.jpg)
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/2.jpg){:width="50%"}
 
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/2.jpg)
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/4.jpg)
 
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/3.jpg)
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/5.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/6.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/7.jpg)
 
 ### Swallow - Lighting Designer and programmer
 Assembly Rooms Durham - ETC Element
@@ -65,6 +89,15 @@ NSDF Hull black box - ETC Ion
 [//]: <> >
 [//]: <> > -- Swallow opening night review by The Bubble
 
+### Get your sh*t together - Lighting Designer and programmer
+Assembly Rooms Durham - ETC Element
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/3.jpg)
+
 ### Seussical - Sound no.1
 
 Gala Theatre Durham - Digico SD9
@@ -75,6 +108,20 @@ Gala Theatre Durham - Digico SD9
 Assembly Rooms Durham
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Rent.jpg)
+
+### National Youth Musical Theatre (NYMT)
+
+#### Super Hero - Lighting crew
+
+Curve Theatre Leicester and Rose Theatre Kingston
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/NYMT/super2.jpg)
+
+#### The Beautiful Game - Lighting Op
+
+The Other Palace - ETC Ion
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/NYMT/TBG3.jpg)
 
 ### Joseph - Technical Director
 Collingwood College Durham (temporary stage)
@@ -101,7 +148,7 @@ Assembly Rooms Durham
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/LoveLoveLove.jpg)
 
-### Aladdin - Lighting assistant
+### Aladdin - Lighting crew
 Sawston Youth Drama - Zero88 Solution
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Aladdin1.jpg)
@@ -193,3 +240,52 @@ The Robinson Theatre Hills Road - ETC Ion
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/002.jpg){:width="50%"}
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/001.jpg){:width="50%"}
+
+
+### A (reasonably) complete list of shows:
+
+- Singin' in the Rain - LD
+- Seussical - SD
+- Spamalot - LD
+- 35mm - Projection programmer
+- Legally Blonde - LD
+- Swallow - LD
+- NYMT Super hero - Lighting crew
+- NYMT The Beautiful Game - Light op
+- Get Your Sh*t Together - LD
+- Rent - TD
+- Joseph - TD
+- Carpe Jugulum - LD
+- Love Love Love - TD
+- Aladdin - Lighting crew
+- Beauty and the Beast - Lighting crew
+- The Little Mermaid - Lighting crew/Followspot
+- The Lion King - Lighting/stage crew
+- Les Misérables - Lighting crew/design
+- West Side Story - Lighting crew/design
+- South Pacific - Lighting crew/design
+- Annie - Lighting crew
+- Madagascar - Lighting crew
+- Guys and Dolls - Lighting crew/design
+- Peter Pan - Lighting crew
+- South Pacific - Lighting crew/design
+- The Pajama Game - Lighting crew/design
+- Fiddler on the Roof - Lighting crew/design
+- Oklahoma - Lighting crew
+- Durham Drama Festival 2017 - TD
+- How to Succeed in Business Without Really Trying - SD
+- A Doll's House - TD
+- Durham Drama Festival 2016 - SD
+- Parade - SD
+- Hills Road show - LD
+
+Venue technician/head of lighting for Collingwood Arts Centre:
+
+- Durham Drama Festival 2019
+- Into the Woods
+- Jesus Christ Super Star
+- Bring It On
+- La Casbah
+- Many many dance and musical showcases.
+
+National Student Drama festival - Festival technical volunteer 2017-2019

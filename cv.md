@@ -7,9 +7,11 @@ img: p_logo_v2.jpg
 
 ### EDUCATION
 
-#### Durham University (2015 - 2019 graduation)
+#### Durham University (2015 - current)
 
-Computer Science (First for years 1 and 2)
+Computer Science PhD
+
+Computer Science MEng 1st class (2015-2019)
 
 Vice Chancellor Scholarship 2016/17 - awarded to the 60 highest-scoring undergraduates across all disciplines in the university.
 
@@ -95,7 +97,7 @@ This is demonstrated by my academic performance and consistent positive feedback
 
 #### Lighting desk programming
 
-Proficient at programming and operating MA dot2 and ETC EOS (Element and Ion) and working knowledge of Avolites Titan and Zero88.
+Proficient at programming and operating MA dot2 and ETC EOS (Element and Ion) and working knowledge of GrandMA2, Avolites Titan and Zero88.
 
 #### Digital sound desk experience
 
