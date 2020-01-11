@@ -23,6 +23,8 @@ Gala Theatre Durham - ETC
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/SinginInTheRain/4.jpg){:width="50%"}
 
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Plans/SinginInTheRain.png)
+
 ### 35mm - Projection programmer
 Collingwood Arts Centre - Resolume
 
@@ -54,6 +56,9 @@ Gala Theatre Durham - GrandMA2
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Spamalot/9.jpg)
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Spamalot/10.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Plans/Spamalot.png)
+
 
 [//]: <> > "The lighting design was also an understated brilliance..."
 [//]: <> >
