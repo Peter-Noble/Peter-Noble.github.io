@@ -14,6 +14,7 @@ Shows are not presented in chronological order.
 
 ### Oklahoma - Lighting Programmer
 Gala Theatre Durham - GrandMA3
+
 Opens 21st January
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma_poster.jpg)
