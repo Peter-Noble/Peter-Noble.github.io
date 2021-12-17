@@ -12,9 +12,86 @@ I've designed for, managed and/or opped a range of different events.
 
 Below are photos from a selection of the events I've worked on.
 
-For lighting all these events used an MA dot2 or one of the Avolites consoles.
+For lighting all these events used a GrandMA3, MA dot2 or one of the Avolites consoles.
+
+### Alfie Boe - Lighting Designer
+
+As part of Trentham Live 2021 I had the opportunity to LD for Alfie Boe's set with an audience of over 10,000!
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/AlfieBoe2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/AlfieBoe1.jpg)
+
+### DUCFS 2021 - Lighting Designer
+
+With COVID stacking the odds against DUCFS this year I helped them design a unique venue and stage layout to maximise the immersion of ever guest and worked closely with the creative team to taylor the ligting for each beat of every song to create a theatrical experience for all.
+
+[Official after video](https://www.facebook.com/durhamucfs/videos/223105756463709)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/DUCFS1.webp)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/DUCFS2.webp)
+
+### The Tent - TD and Lighting Designer
+
+The largest project I've ever worked on.  Months of planning and hundreds of people involved planning, building and staffing a massive marquee for 3 weeks packed full of events.  I was responsible for everything related to the marquee and the technical requirements.
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TheTent1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TheTent2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TheTent3.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TheTent4.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TheTent5.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TheTent6.jpg)
+
+### Trentham Live - House LD
+
+Working as House LD it was a pleasure to host McFly, The Vamps, Collabro and Rak-Su on our stage.
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/TrenthamFOH.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/McFly.jpg)
+
+### Blackpool festival - Lighting Technician
+
+Hosting The Royal Philharmonic Concert Orchestra and Hacienda Classical.
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/Blackpool.jpg)
+
+### Christ Church Durham Carols - Lighting Designer
+
+Church services over several evenings including traditional carols featuring a choir.  No existing lighting infrastructure.
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/CCDCarols2.jpg)
+
+### Christ Church Lockdown music recording - Lighting Designer
+
+Lighting for camera as a bit of a change!
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/CCDRecordings.jpg)
+
+### Collingwood College Olympic style opening ceremony timecoded - Lighting Designer
+
+In a year where the usual welcome to freshers wasn't possible I proposed and LD'd a new format more like an Olympic opening ceremony including choreographed dance routines to timecode.
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/CollingwoodOpening.jpg)
+
+### Fenwick opening livestream - Lighting Technician
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/FenwickOpening.jpg)
+
+### GCCFS - Lighting Designer
+
+[Official video](https://www.youtube.com/watch?v=PsbAt17Duks)
+
+![alt text]({{site.baseurl}}/images/TechnicalEvents/GCCFS.jpg)
 
 ### Collingwood Day 2019 - Lighting Designer
+
 ![alt text]({{site.baseurl}}/images/TechnicalEvents/CollingwoodDay2019_1.jpg)
 
 ![alt text]({{site.baseurl}}/images/TechnicalEvents/CollingwoodDay2019_2.jpg)

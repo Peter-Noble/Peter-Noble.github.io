@@ -8,16 +8,32 @@ img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 15
 ---
 
-Over the past 9 years I've worked on over 40 shows. Below are some photos from a selection of those shows.
+Over the past 12 years I've worked on over 40 show runs and countless other events, shows and advisory roles that maybe don't fit the classic idea of a show so aren't included here. Below are some photos from a selection of those shows.
 
 Shows are not presented in chronological order.
+
+### Four Seasons DU Ballet - Lighting Designer
+The Tent - GrandMA3
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/DUBallet/DUBallet.jpg)
+
+### Chicago - Lighting Designer
+Collingwood Arts Centre - GrandMA3
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/5.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/4.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/1.jpg)
 
 ### Oklahoma - Lighting Programmer
 Gala Theatre Durham - GrandMA3
 
-Opens 21st January
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/1.jpg)
 
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma_poster.jpg)
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/3.jpg)
 
 ### Singin' in the Rain - Lighting Designer
 Gala Theatre Durham - ETC
@@ -71,19 +87,6 @@ Gala Theatre Durham - GrandMA2
 [//]: <> >
 [//]: <> > -- Spamalot opening night review by The Bubble
 
-### Legally Blonde - Lighting Designer
-Assembly Rooms Durham - MA dot2
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/2.jpg){:width="50%"}
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/4.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/5.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/6.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/7.jpg)
-
 ### Swallow - Lighting Designer and programmer
 Assembly Rooms Durham - ETC Element
 
@@ -109,6 +112,19 @@ Assembly Rooms Durham - ETC Element
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/2.jpg)
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/GYST/3.jpg)
+
+### Legally Blonde - Lighting Designer
+Assembly Rooms Durham - MA dot2
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/2.jpg){:width="50%"}
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/4.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/5.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/6.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/LegallyBlonde/7.jpg)
 
 ### Seussical - Sound no.1
 
@@ -254,8 +270,12 @@ The Robinson Theatre Hills Road - ETC Ion
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/001.jpg){:width="50%"}
 
 
-### A (reasonably) complete list of shows:
+### A (reasonably) complete list of theatre shows:
 
+- Four Seasons DU Ballet - LD
+- The Pirates of Penzance DOE - Lighting programmer
+- Oklahoma - Lighting programmer
+- DDF 2019 - SD
 - Singin' in the Rain - LD
 - Seussical - SD
 - Spamalot - LD

@@ -1,3 +1,5 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+images/.DS_Store
+images/TechnicalTheatre/.DS_Store
