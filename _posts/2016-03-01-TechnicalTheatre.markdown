@@ -8,32 +8,9 @@ img: TechnicalTheatre/Spamalot/thumbnail.png
 priority: 15
 ---
 
-Over the past 12 years I've worked on over 40 show runs and countless other events, shows and advisory roles that maybe don't fit the classic idea of a show so aren't included here. Below are some photos from a selection of those shows.
+Over the past 12 years I've worked on over 40 show runs and countless other events, shows and advisory roles that maybe don't fit the classic idea of a theatre run so aren't included. Below are some photos from a selection of those shows.
 
-Shows are not presented in chronological order.
-
-### Four Seasons DU Ballet - Lighting Designer
-The Tent - GrandMA3
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/DUBallet/DUBallet.jpg)
-
-### Chicago - Lighting Designer
-Collingwood Arts Centre - GrandMA3
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/5.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/4.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/1.jpg)
-
-### Oklahoma - Lighting Programmer
-Gala Theatre Durham - GrandMA3
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/1.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/2.jpg)
-
-![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/3.jpg)
+Not presented in chronological order.
 
 ### Singin' in the Rain - Lighting Designer
 Gala Theatre Durham - ETC
@@ -47,6 +24,24 @@ Gala Theatre Durham - ETC
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/SinginInTheRain/4.jpg){:width="50%"}
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Plans/SinginInTheRain.png)
+
+### Oklahoma - Lighting Programmer
+Gala Theatre Durham - GrandMA3
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/1.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/2.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Oklahoma/3.jpg)
+
+### Chicago - Lighting Designer
+Collingwood Arts Centre - GrandMA3
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/5.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/4.jpg)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/Chicago/1.jpg)
 
 ### 35mm - Projection programmer
 Collingwood Arts Centre - Resolume
@@ -103,6 +98,11 @@ NSDF Hull black box - ETC Ion
 [//]: <> > "Congratulations should go to Technical Director Matthew Jennings and Lighting Designer Peter Noble for creating a perfect ambience to effectively match the emotions onstage."
 [//]: <> >
 [//]: <> > -- Swallow opening night review by The Bubble
+
+### Four Seasons DU Ballet - Lighting Designer
+The Tent - GrandMA3
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/DUBallet/DUBallet.jpg)
 
 ### Get your sh*t together - Lighting Designer and programmer
 Assembly Rooms Durham - ETC Element
