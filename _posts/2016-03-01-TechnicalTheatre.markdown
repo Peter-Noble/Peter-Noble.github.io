@@ -25,6 +25,14 @@ Gala Theatre Durham - ETC
 
 ![alt text]({{site.baseurl}}/images/TechnicalTheatre/Plans/SinginInTheRain.png)
 
+### Guys and Dolls - Lighting Programmer
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/GuysAndDolls/1.JPG)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/GuysAndDolls/3.JPG)
+
+![alt text]({{site.baseurl}}/images/TechnicalTheatre/GuysAndDolls/8.JPG)
+
 ### Oklahoma - Lighting Programmer
 Gala Theatre Durham - GrandMA3
 

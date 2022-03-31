@@ -37,6 +37,12 @@ Part of a small group that created a Lego animation that won awards in London, P
 
 ### EXPERIENCE
 
+#### Freelance Lighting Designer and production manager (2018 - current)
+Under the banner of <a href="https://gcp.group/">Golden Cedar Production Group</a>.  Working on everything from designs for sub-150 capacity not-for-profit carol services to production managing a quater million pound arts festival and everything in between.
+
+#### Pipeline and crowd TD, VineFX (2018 - 2021)
+Working on a per project basis whenever my skillset can be utilised by a particular project.  Sometimes working in person and others working remotely.  This works has included a custom crowd system, pipeline work using ShotGrid and managing the ingest, processing and delivery of data clean up work done with a small team of artists.
+
 #### Simulation programmer and crowd TD, Theory Studios (Summer 2017)
 Summer job building, using and providing support for a crowd simulation tool used to animate traffic for high profile TV visual effects jobs.
 
@@ -80,6 +86,14 @@ Taught kids aged 11-16 about filmmaking and visual effects.  One workshop produc
 #### BFI Film Academy specialising in VFX (Summer 2014)
 Week long residential, being taught and practicing VFX techniques.
 
+### Training
+
+UK Rigging - Rigging for the entertainment industry
+
+Durham University working at height
+
+Seaward PAT
+
 ### Skills and Attributes
 
 #### Communication and teamwork
@@ -97,15 +111,19 @@ This is demonstrated by my academic performance and consistent positive feedback
 
 #### Lighting desk programming
 
-Proficient at programming and operating MA dot2 and ETC EOS (Element and Ion) and working knowledge of GrandMA2, Avolites Titan and Zero88.
+Owner and operator of a GrandMA3 console.
 
 #### Digital sound desk experience
 
-Behringer x32 and Digico SD9.
+Digico SD.
+
+#### Media server
+
+Resolume Arena and TouchDesigner.
 
 #### Code development skills
 
-Primarily Python and C, but also JavaScript, WebGL, Java, Linux and git.
+Primarily C++ and Python - including Qt, ImGui, OpenCV and other related libraries.
 
 Blender plugin development using Python.
 
@@ -116,7 +134,3 @@ Blender, BMD Fusion, mocha Pro, Adobe After Effects, Photoshop and Premiere.
 ### References
 
 Contact details available on request.
-
-Lesley Morgan - Arts Development Manager at Sawston Village College
-
-Peter Harmer - Freelance filmmaker
